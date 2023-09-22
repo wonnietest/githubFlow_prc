@@ -1,2 +1,2 @@
 # githubFlow_prc
-깃허브flow 연습 레
+깃허브flow 연습 레포
